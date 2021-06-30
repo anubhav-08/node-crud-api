@@ -1,2 +1,2 @@
 # node-crud-api
-Api is created using node.js, express frameworks and mongoDB as Database
+Api is created using node.js, express and mongoDB 
